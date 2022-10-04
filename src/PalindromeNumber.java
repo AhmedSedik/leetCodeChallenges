@@ -1,3 +1,4 @@
+/*
 import java.util.Scanner;
 
 public class PalindromeNumber {
@@ -37,3 +38,4 @@ public class PalindromeNumber {
     }
 
 }
+*/
